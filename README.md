@@ -10,7 +10,7 @@
 
 <div align="center">
   <img src="https://github.com/hariketsheth/hariketsheth/blob/main/img/handshake.gif" height="32px" style="margin-bottom: -5px;"  >
-  <a href="linkedin.com/in/sanjay-k-790b912aa/" target="_blank">
+  <a href="www.linkedin.com/in/sanjay-k-sk2002" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
   </a>
 
